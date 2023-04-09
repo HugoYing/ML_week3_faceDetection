@@ -12,7 +12,7 @@ let video,
 
 function preload() {
   img1 = loadImage('hat.png');
-  img2 = loadImage('glasses.png');//
+  img2 = loadImage('glasses.png');
   
 }
 
